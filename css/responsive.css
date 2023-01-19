@@ -1,0 +1,550 @@
+/* md */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+ .header .static-header figure figcaption {
+ margin-top:16%
+}
+ .header_inner_banner header {
+ padding-top:10%
+}
+ .about_pan_home > article p br {
+ display:none
+}
+ .progress_barpan li .progress {
+ max-width: 450px;
+}
+ .services-text article h4 {
+ font-size:17px;
+ letter-spacing:1px
+}
+ .services-text article p br {
+ display:none
+}
+ .contact-wrapper .contact-form input[type="text"], .contact-wrapper .contact-form input[type="email"], .contact-wrapper .contact-form input[type="tel"] {
+ max-width: 43%;
+}
+ .blog_right aside.recent-post-pan ul li figure {
+ margin-right:0
+}
+ .blog_right aside.recent-post-pan ul li section a {
+ font-size:12px;
+ letter-spacing:inherit
+}
+ .blog_right aside.flickr-feed-pan ul li:nth-child(2), .blog_right aside.flickr-feed-pan ul li:nth-child(5) {
+ margin:0
+}
+ .pagination ul li:first-child a {
+ margin-right:0;
+}
+ .pagination ul li:last-child a {
+ margin-left:0
+}
+ .blog-details-pan .comments article .comment-body p br {
+ display:none
+}
+ .footer menu.socil-icon-one {
+ margin-left:0
+}
+ .footer menu.socil-icon-two {
+ margin-left:0
+}
+}
+
+
+
+/* sm */
+
+@media (min-width: 768px) and (max-width: 991px) {
+ .header .static-header figure figcaption {
+ margin-top:10%
+}
+ .header nav ul > li {
+ padding-left:15px
+}
+ .service_details p {
+ text-align:center
+}
+ .service_details .button-service {
+ margin:0 auto;
+ display:block
+}
+ .services-area-home aside {
+ padding-left:0;
+ margin-top:30px
+}
+ .fun-facts span {
+ font-size:11px;
+}
+ .header_inner_banner header {
+ padding-top:10%
+}
+ .about_pan_home > article p br, .services-text article h4 br, .services-text article p br {
+ display:none
+}
+ .progress_barpan li .progress {
+ max-width: 91%;
+}
+ .the-history figure {
+ float:left;
+ max-width:50%;
+ margin-right:30px;
+ margin-bottom:5px
+}
+ .the-history article, .progress_barpan section {
+ padding-left:0
+}
+ .tema-images li {
+ margin-bottom:20px
+}
+ .tema-images li figure img {
+ width:100%
+}
+ .all-serivices section, .area-expertise menu {
+ margin-bottom:30px
+}
+ .all-serivices, .services-text, .area-expertise {
+ padding-top:30px;
+ padding-bottom:30px
+}
+ .contact-wrapper .contact-form input[type="text"], .contact-wrapper .contact-form input[type="email"], .contact-wrapper .contact-form input[type="tel"], .contact-wrapper .contact-form textarea, .contact-wrapper .contact-form input[type="submit"] {
+ max-width: 100%;
+ margin-right:0
+}
+ .contact-wrapper aside {
+ padding-left:0;
+ margin-top:30px
+}
+ .blog_right aside.recent-post-pan ul li figure {
+ margin-right:15px
+}
+ .blog_right aside.recent-post-pan ul li section {
+ float:none
+}
+ .blog_right aside.recent-post-pan ul li section a {
+ font-size:12px;
+ letter-spacing:inherit
+}
+ .blog_right aside.flickr-feed-pan ul li:nth-child(2), .blog_right aside.flickr-feed-pan ul li:nth-child(5) {
+ margin:0
+}
+ .pagination ul li:first-child a {
+ margin-right:0;
+}
+ .pagination ul li:last-child a {
+ margin-left:0
+}
+ .blog_right aside.flickr-feed-pan ul li {
+ margin-bottom:0
+}
+ .footer menu.socil-icon-one {
+ margin-left:0
+}
+ .footer menu.socil-icon-two {
+ margin-left:0
+}
+ .projects-images ul li {
+width:33.3%;
+margin:0 auto;
+}
+ .projects-images ul li img {
+width:100%;
+max-width:100%;
+margin:0 auto;
+display:block
+}
+}
+
+
+
+/* xs */
+
+@media (max-width: 767px) {
+ .header nav {
+ float:none
+}
+ .header nav ul {
+ width:100%;
+ background-color:#000;
+ left:0;
+ right:0;
+ margin:0 auto;
+ top:93px;
+ padding:10px 0
+}
+ .header nav ul li {
+ padding-left:0;
+ display:block;
+ border-bottom:1px solid #282828
+}
+ .header nav ul li:last-child {
+ border-bottom:none
+}
+ .header nav ul > li > a {
+ line-height:40px;
+ padding:0 15px
+}
+ .header .stuck nav ul {
+ background-color:#FFF;
+ width: auto;
+ top:80px;
+ padding:10px 0;
+}
+ .header .stuck nav ul li {
+ border-bottom-color:#000
+}
+ .header .navbar.stuck nav ul li ul li a {
+ color:#000
+}
+ .header nav ul > li ul {
+ border-top:1px solid #111111
+}
+ .header nav ul > li ul, .header .navbar.stuck nav ul li ul {
+ position:static;
+ padding:0;
+ border:none;
+ width:auto;
+ border-top:1px solid #4d4d4d
+}
+ .header nav ul > li ul li a, .header .navbar.stuck nav ul li ul li a {
+ line-height:40px;
+ padding-bottom:0
+}
+ .static-header .angle-down {
+ display:none
+}
+ .header .static-header figure figcaption {
+ margin-top:0
+}
+ .header .header_v1 figure.video-header figcaption h2 {
+ letter-spacing:11px;
+ font-size:40px
+}
+ .header .header_v1 figure.video-header figcaption {
+ top:32%
+}
+ .header .header_v1 figure figcaption h2 {
+font-size:24px;
+letter-spacing:5px
+}
+ #home-image img {
+height:auto !important;
+width:100% !important
+}
+ .about_pan_home > article p br, .testimonial_pan article p br, .service_details p br, .all-serivices section p br, .services-text article h4 br, .services-text article p br {
+ display:none
+}
+ .service_details p, .fun-facts, .latest-projects-pan, .latest-projects-top section ul {
+ text-align:center
+}
+ .fun-facts h3 {
+ font-size:42px
+}
+ .service_details .button-service {
+ margin:0 auto;
+ display:block
+}
+ .services-area-home aside {
+ padding-left:0;
+ margin-top:30px
+}
+ .fun-facts section {
+ padding-bottom:30px
+}
+ .fun-facts .happy-us {
+ padding-left:0
+}
+ .latest-projects-top section ul > li {
+ letter-spacing:1px
+}
+ .testimonial_pan article h6 {
+ letter-spacing:2px
+}
+ .letsproject-pan a {
+ line-height:70px;
+ font-size:15px
+}
+ .logoes-pan ul {
+ padding:0
+}
+ .logoes-pan ul li {
+ margin:0
+}
+ .footer, .testimonial_pan, .about_pan_home, .fun-facts, .latest-projects-pan {
+ padding:40px 0
+}
+ .services-area-home {
+ padding-top:40px;
+ padding-bottom:40px
+}
+ .footer menu, .footer address, .works_wrapper {
+ padding-bottom:30px
+}
+ .footer p {
+ padding-left:15px
+}
+ .header .header_v1 figure figcaption {
+ padding-top:18%
+}
+ .header_inner_banner .header-title {
+ padding-top:7%
+}
+ .about_pan_home > article p br {
+ display:none
+}
+ .progress_barpan li .progress {
+ max-width: 91%;
+}
+ .the-history figure {
+ float:none;
+ max-width:100%;
+ margin-right:0;
+ margin-bottom:20px
+}
+ .the-history article, .progress_barpan section {
+ padding-left:0
+}
+ .tema-images li {
+ margin-bottom:20px
+}
+ .tema-images li figure img {
+ width:100%
+}
+ .the-team, .tema-images, .our-expertis, .works_wrapper .projects-images, .works_wrapper, .contact-wrapper, .contact-wrapper .contact-form {
+ padding-top:30px
+}
+ .progress_barpan section {
+ width:100%;
+ margin:0 auto
+}
+ .our-expertis {
+ padding-bottom:30px
+}
+ .the-history article p {
+ padding-bottom:15px
+}
+ .tema-images ul {
+ text-align:center
+}
+ .tema-images ul li {
+ display:inline-block;
+ width:49%
+}
+ .all-serivices section, .area-expertise menu {
+ margin-bottom:30px
+}
+ .all-serivices, .services-text, .area-expertise, .pagenotfound-wrapper, .blog-wrapper {
+ padding-top:30px;
+ padding-bottom:30px
+}
+ .services-text figure {
+ float:none
+}
+ .services-text figure img {
+ margin:0 auto;
+ display:block
+}
+ .contact-wrapper .contact-form input[type="text"], .contact-wrapper .contact-form input[type="email"], .contact-wrapper .contact-form input[type="tel"], .contact-wrapper .contact-form textarea, .contact-wrapper .contact-form input[type="submit"] {
+ max-width: 100%;
+ margin-right:0
+}
+ .contact-wrapper aside {
+ padding-left:0;
+ margin-top:30px
+}
+ .pagenotfound-wrapper header h2 {
+ font-size:50px;
+ line-height:70px;
+ width:140px
+}
+ .blog_right aside.recent-post-pan ul li figure {
+ margin-right:15px;
+ height:auto;
+ width:40%
+}
+ .blog_right aside.recent-post-pan ul li section {
+ float:none
+}
+ .blog_right aside.recent-post-pan ul li section a {
+ letter-spacing:inherit
+}
+ .blog_right aside.flickr-feed-pan ul li:nth-child(2), .blog_right aside.flickr-feed-pan ul li:nth-child(5) {
+ margin:0
+}
+ .pagination ul li:first-child a {
+ margin-right:0;
+}
+ .pagination ul li:last-child a {
+ margin-left:0
+}
+ .blog_right aside.flickr-feed-pan ul li {
+ margin-bottom:0;
+ width: 49%;
+}
+ .blog_right aside.flickr-feed-pan ul li figure {
+ width:100%;
+ height:auto
+}
+ .blog-wrapper .blog_left {
+ padding-right:inherit;
+ padding:0
+}
+ .blog_left article .blog-slider-pan, .blog_left article, .blog_left article figure, .blog_left article .video, .blog_right aside.search-from, .blog_right aside.categories-pan, .blog_right aside.recent-post-pan {
+ margin-bottom:30px
+}
+ .blog_left article header .authore-cat-comment {
+ font-size:15px;
+ line-height:22px;
+ margin-bottom:20px
+}
+ .comments h6, .blog-details-pan .leave-comment h5 {
+ padding-bottom:30px
+}
+ .blog-details-pan .comments article .comment-body {
+ margin-left:0
+}
+ .blog-details-pan .comments ol ul {
+ margin-left:6%
+}
+ .blog-details-pan .comments article figure {
+ margin-right:10px
+}
+ .blog-details-pan .leave-comment {
+ padding-top:30px
+}
+ .blog-details-pan .leave-comment {
+ margin-bottom:30px
+}
+ .blog_left article .continue-button {
+ margin-top:30px
+}
+ .blog_right aside.flickr-feed-pan ul {
+ text-align:center
+}
+ .header .inner-nva-wrapper {
+ background-color:#000;
+ top:-91px;
+ padding-bottom:10px
+}
+ .header_inner_banner figure {
+ margin:60px 0 0
+}
+ .header_inner_banner header {
+ padding-top:9%
+}
+ .footer menu.socil-icon-one {
+ margin-left:0
+}
+ .footer menu.socil-icon-two {
+ margin-left:0
+}
+ .about_pan_home > article p, .service_details p, .service_details p + p, .testimonial_pan article p, .all-serivices section p, .services-text article h4, .services-text article p, .blog_left article p, .blog-details-pan .comments article .comment-body p, .commingsoon-content p {
+ font-size:16px;
+ line-height:24px;
+ letter-spacing:2px
+}
+ .commingsoon-content h2 {
+letter-spacing:1px;
+font-size:30px;
+line-height:32px
+}
+ .commingsoon-content p br {
+display:none
+}
+ .commingsoon-wrapper footer #countdown .item {
+margin-right:10px;
+ padding-right:10px
+}
+ .commingsoon-wrapper footer #countdown .item p {
+font-size:20px;
+line-height:22px
+}
+ .projects-images ul li {
+width:96%;
+margin:0 auto;
+}
+ .projects-images ul li img {
+width:100%;
+max-width:100%;
+margin:0 auto;
+display:block
+}
+}
+
+/* xs */
+
+@media (max-width: 568px) {
+ .header .angle-down {
+ bottom:20px
+}
+}
+
+/* xs */
+
+@media (max-width: 375px) {
+ .header .header_v1 figure figcaption {
+ padding-top:55%
+}
+ .header .static-header figure figcaption {
+ padding-top:34%
+}
+ .header .static-header figure figcaption h2 {
+ font-size:33px;
+ line-height:22px
+}
+ #home-image img {
+height:250px !important;
+width:100% !important
+}
+ .tema-images ul li {
+ display:inline-block;
+ width:95%
+}
+ .works_images ul li.col-xs-6 {
+ width:100%;
+ margin-bottom:20px
+}
+ .header_inner_banner .header-title h2 {
+ font-size:17px;
+ line-height:7px
+}
+ .header_inner_banner .header-title p {
+ font-size:11px;
+ line-height:14px;
+ letter-spacing:2px
+}
+ .blog-details-pan .comments article .comment-meta .comment-reply-link {
+ width:60px;
+ line-height:33px;
+ font-size:11px
+}
+ .header .header_v1 figure.video-header figcaption {
+ top: 43%;
+}
+ .header .header_v1 figure.video-header iframe {
+height:500px !important
+}
+.video-section .pattern-overlay {
+ min-height: 400px;
+}
+}
+
+/* xs */
+
+@media (max-width: 360px) {
+}
+ @media (max-width: 320px) {
+ .header .header_v1 figure figcaption {
+ padding-top:55%
+}
+ .header .static-header figure figcaption {
+ padding-top:36%
+}
+ .header .static-header figure figcaption h2 {
+ font-size:22px;
+ line-height:12px
+}
+ #home-image img {
+height:220px !important;
+width:100% !important
+}
+}

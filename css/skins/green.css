@@ -1,0 +1,19 @@
+/*----------------------------
+c8dd82
+------------------------------*/
+.letsproject-pan, .blog_left article .continue-button:hover, .header .header_v1 figure figcaption p a,
+.about_pan_home > article a:hover, .service_details .button-service:hover, .view_button:hover,
+.testimonial_pan .owl-controls .owl-pagination .owl-page.active,.all-serivices section:hover span,
+.contact-wrapper .contact-form input[type="submit"]:hover,.pagenotfound-wrapper a:hover,.blog_right aside.search-from input:focus,
+.blog_left article .continue-button:hover,.pagination ul li > a:hover,.blog-details-pan .comments article .comment-meta .comment-reply-link:hover,.blog-details-pan .leave-comment input[type="submit"]:hover,.about_pan_home a:hover{	background-color:#c8dd82;
+}
+.projects-images ul li .figcaption,.tema-images li .section,.works_images ul li figcaption{
+	background: rgba(200, 221, 130, 0.7);
+}
+.footer menu li a:hover, .footer address a,.blog_right aside.categories-pan ul li a:hover,.blog_right aside.recent-post-pan ul li section a:hover,.blog_left article header .authore-cat-comment a:hover {
+	color:#c8dd82
+}
+.contact-wrapper .contact-form input[type="text"]:focus, .contact-wrapper .contact-form input[type="email"]:focus,
+ .contact-wrapper .contact-form input[type="tel"]:focus, .contact-wrapper .contact-form textarea:focus {
+	     border-bottom-color: #c8dd82;
+}
