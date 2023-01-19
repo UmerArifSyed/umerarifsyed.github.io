@@ -850,7 +850,7 @@ h6 {
 	padding-top: 80px;
 	padding-bottom: 80px;
 	color: #999;
-	font-weight: 200
+	font-weight: 400
 }
 .footer address {
 	font-size: 12px;
@@ -878,7 +878,7 @@ h6 {
 	line-height: 37px;
 	list-style: none;
 	letter-spacing: 3px;
-	font-weight: 200
+	font-weight: 400
 }
 .footer ul li a {
 	display: block;
@@ -969,7 +969,7 @@ h6 {
 	line-height: 27px;
 	letter-spacing: 1px;
 	color: #555;
-	font-weight: 300;
+	font-weight: 500;
 	padding-bottom: 26px
 }
 
@@ -994,7 +994,7 @@ h6 {
 	line-height: 27px;
 	color: #555;
 	letter-spacing: 1px;
-	font-weight: 300;
+	font-weight: 400;
 	padding-bottom: 25px
 }
 .progress_barpan section {
@@ -1021,12 +1021,12 @@ h6 {
 }
 .progress_barpan li h5 {
 	text-transform: uppercase;
-	letter-spacing: 6px;
+	letter-spacing: 4px;
 	color: #232024;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 13px;
 	line-height: 14px;
-	padding-bottom: 19px
+	padding-bottom: 5px
 }
 .progress_barpan li h6 {
 	color: #232024;
@@ -1150,7 +1150,7 @@ h6 {
 	text-transform: uppercase;
 	color: #060606;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 15px;
 	display: block;
 	letter-spacing: 6px;
@@ -1161,8 +1161,8 @@ h6 {
 	font-size: 15px;
 	line-height: 23px;
 	color: #555;
-	letter-spacing: 2px;
-	font-weight: 300
+	letter-spacing: 1px;
+	font-weight: 400;
 }
 .all-serivices section span {
 	display: inline-block;
@@ -1211,7 +1211,7 @@ h6 {
 	font-size: 15px;
 	line-height: 30px;
 	display: block;
-	font-weight: 300;
+	font-weight: 400;
 	letter-spacing: 2px;
 	padding-left: 22px;
 	background-image: url(../images/devider-serivces.png);
