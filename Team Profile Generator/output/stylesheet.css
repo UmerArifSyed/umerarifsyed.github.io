@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+#navbar {
+    color: black ;
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.card-header {
+    background-color:antiquewhite;
+    color: black;
+}
+
+.card-body {
+    background-color:white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
