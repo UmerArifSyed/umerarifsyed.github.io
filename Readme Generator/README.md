@@ -3,7 +3,7 @@
 
 ## Description
 ​
-Generate README.md file for github - UCF Coding BootCamp
+Generate README.md file for github - 
 ​
 ## Table of Contents
 
